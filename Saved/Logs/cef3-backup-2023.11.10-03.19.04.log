@@ -1,0 +1,12 @@
+[1109/214340.951:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1109/221844.864:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1109/221844.882:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1109/221849.869:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1109/221849.890:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1109/221854.879:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1109/221854.895:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1109/221859.440:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -201
+[1109/221859.440:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -201
+[1109/221900.164:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -201
+[1109/221900.772:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -201
+[1109/221904.369:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101

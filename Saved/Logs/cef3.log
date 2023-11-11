@@ -1,0 +1,20 @@
+[1110/085137.729:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1110/092313.961:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1110/092313.981:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1110/120322.589:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1110/120322.604:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1110/120322.958:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1110/120322.977:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1110/120323.098:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1110/120323.936:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1110/120324.664:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1110/120324.668:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1110/120327.079:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[1110/120327.083:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 3
+[1110/120327.088:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[1110/120327.090:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 3
+[1110/134306.144:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1110/134306.144:ERROR:cache_util.cc(144)] Unable to move cache folder F:/Unreal Projects/FirstGame/Saved/webcache_4430\Cache to F:/Unreal Projects/FirstGame/Saved/webcache_4430\old_Cache_000
+[1110/134306.144:ERROR:disk_cache.cc(184)] Unable to create cache
+[1110/134314.496:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1110/134504.790:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
